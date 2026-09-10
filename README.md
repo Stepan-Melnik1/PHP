@@ -3,5 +3,5 @@
 ---
 
 > 🎓 **Выполнил:** Студент группы `I2502ru` — **Troșciak Artemii**  
-> 👤 **GitHub-профиль:** Stepan-Melnik1
->  📅 **Год:** 2026
+> 👤 **GitHub-профиль:** Stepan-Melnik1  
+> 📅 **Год:** 2026
