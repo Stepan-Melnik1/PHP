@@ -4,7 +4,7 @@
 Понять, что происходит, когда пользователь открывает сайт. Научиться находить и анализировать HTTP-запросы в браузере. Разобраться в назначении методов GET, POST, PUT, DELETE.
 
 ## Задание 1.
-![Uploading image.png…]()
+<img width="263" height="236" alt="Снимок экрана_20260910_173016" src="https://github.com/user-attachments/assets/243b8edf-404a-495d-b095-a92d9e5baee8" />
 
 
 
