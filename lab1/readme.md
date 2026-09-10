@@ -188,7 +188,7 @@ GET-запрос не содержит отдельного тела запро�
 ```
 GET / HTTP/1.1
 Host: sandbox.usm.com
-User-Agent: Ivan Petrov
+User-Agent: Artemii Trosciak
 ```
 
 **Что такое User-Agent и для чего он используется?**
@@ -222,7 +222,7 @@ Content-Type: application/json
 ```
 PUT /cars/1 HTTP/1.1
 Host: sandbox.usm.com
-User-Agent: Ivan Petrov
+User-Agent: Artemii Trosciak
 Content-Type: application/json
 
 {
